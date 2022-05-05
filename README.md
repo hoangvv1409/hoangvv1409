@@ -5,10 +5,10 @@ I am a passionate builder/developer with a growth mindset, a life-long learner. 
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hoangvu1409/">
+  <a href="https://www.linkedin.com/in/hoangvu1409/" target="_blank">
     <img src="https://img.shields.io/badge/-hoangvv1409-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangvu1409/">
   </a>
-  <a href="https://t.me/hoangvv">
+  <a href="https://t.me/hoangvv" target="_blank">
     <img src="https://img.shields.io/badge/hoangvv-2CA5E0?style=flat-square&logo=telegram&logoColor">
   </a>
 </p>
