@@ -1,10 +1,6 @@
-<p align="center">
-I am a passionate builder/developer with a growth mindset, a life-long learner. I have a great passion for building things. I believe technology can make a better world and if we truly work hard in a smart-right-way, we could achieve far better results.
-</p>
+# Hi, I'm Hoang Vu
 
-<h2 align="center">Reach me out on</h2>
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/hoangvu1409/" target="_blank">
     <img src="https://img.shields.io/badge/-hoangvv1409-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangvu1409/">
   </a>
@@ -13,8 +9,15 @@ I am a passionate builder/developer with a growth mindset, a life-long learner. 
   </a>
 </p>
 
-<h2 align="center">My Github Stats</h2>
-<br>
+I am a passionate builder/developer with a growth mindset, a life-long learner. I have a great passion for building things. I believe technology can make a better world and if we truly work hard in a smart-right-way, we could achieve far better results.
+
+## Tech stack
+
+- Backend: Python, Nodejs, Go, Typescript
+- Data: Mysql, Postgres, Cassandra, Redis, Elasticsearch, Mongo
+- Message Queue: Kafka, RabbitMQ
+
+## My Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangvv1409&show_icons=true&theme=radical&line_height=27&count_private=true">
