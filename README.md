@@ -14,6 +14,7 @@ I am a passionate builder/developer with a growth mindset, a life-long learner. 
 ## Tech stack
 
 - Backend: Python, Nodejs, Go, Typescript
+- Frontend: React, Remix, Next
 - Data: Mysql, Postgres, Cassandra, Redis, Elasticsearch, Mongo
 - Message Queue: Kafka, RabbitMQ
 
