@@ -20,9 +20,11 @@ I am a passionate builder/developer with a growth mindset, a life-long learner. 
 
 ## My Github Stats
 
+<!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangvv1409&show_icons=true&theme=radical&line_height=27&count_private=true">
 </p>
+--->
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangvv1409&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&count_private=true">
 </p>
